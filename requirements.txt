@@ -1,0 +1,9 @@
+PySide6>=6.5.0
+mss>=7.0.0
+numpy>=1.24
+opencv-python-headless>=4.7
+sounddevice>=0.4.8
+soundfile>=0.12.1
+moviepy>=1.0.3
+tqdm>=4.65
+ffmpeg-python>=0.2.0
