@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project-specific
+recordings/
+*.mkv
+*.mp4
+*.avi
+*.wav
+*.video.avi
+*.audio.wav
+
+# Development artifacts
+.workspace/
+
+# MCP runtime (keep in root per governance)
+# .mcp-runtime.json
+# *.project-mcp.json
+
+# Logs
+*.log
+logs/
+
+# PyInstaller
+*.spec
+dist/
+build/
